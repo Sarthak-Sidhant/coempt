@@ -31,6 +31,8 @@ function markdownWatcherPlugin() {
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://Sarthak-Sidhant.github.io',
+  base: '/coempt',
   vite: {
     plugins: [markdownWatcherPlugin()]
   }
