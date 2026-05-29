@@ -1,0 +1,17 @@
+{
+  "name": "mechanical-matter",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "node process-images.cjs && astro dev",
+    "build": "node process-images.cjs && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^6.4.2"
+  }
+}

@@ -1,0 +1,105 @@
+---
+const { node } = Astro.props;
+const isDir = node.type === 'directory';
+
+function getFileIcon(name: string) {
+  const ext = name.split('.').pop()?.toLowerCase();
+  if (ext === 'pdf') return 'pdf';
+  if (ext === 'html' || ext === 'htm') return 'html';
+  if (ext === 'xls' || ext === 'xlsx') return 'xls';
+  return 'file';
+}
+
+const fileIcon = isDir ? 'folder' : getFileIcon(node.name);
+---
+<li class="tree-node">
+  {isDir ? (
+    <div>
+      <div class="node-row directory-node">
+        <span class="node-icon folder-toggle-icon" style="font-size: 0.65rem; margin-right: 0.35rem; width: 0.6rem; color: var(--text-muted)">▶</span>
+        <span class="node-icon icon-folder">
+          <svg fill="currentColor" viewBox="0 0 20 20" style="width: 1.1rem; height: 1.1rem; color: #f59e0b;"><path d="M2 6a2 2 0 012-2h5l2 2h5a2 2 0 012 2v6a2 2 0 01-2 2H4a2 2 0 01-2-2V6z"></path></svg>
+        </span>
+        <span class="node-name" style="font-weight: 600;">{node.name}</span>
+      </div>
+      <ul class="node-children">
+        {node.children.map((child: any) => <Astro.self node={child} />)}
+      </ul>
+    </div>
+  ) : (
+    <a href={`/docs/${node.path.split('/').map(encodeURIComponent).join('/')}`} target="_blank" class="node-row file-node">
+      <span style="width: 0.95rem; display: inline-block;"></span>
+      <span class={`node-icon icon-${fileIcon}`}>
+        {fileIcon === 'pdf' && (
+          <svg fill="currentColor" viewBox="0 0 20 20" style="width: 1.1rem; height: 1.1rem; color: #ef4444;"><path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 2a1 1 0 011-1h1a1 1 0 110 2H7a1 1 0 01-1-1zm0 4a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm0 4a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+        )}
+        {fileIcon === 'html' && (
+          <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" style="width: 1.1rem; height: 1.1rem; color: #3b82f6;"><path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"></path></svg>
+        )}
+        {fileIcon === 'xls' && (
+          <svg fill="currentColor" viewBox="0 0 20 20" style="width: 1.1rem; height: 1.1rem; color: #10b981;"><path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm2 10a1 1 0 10-2 0v2a1 1 0 102 0v-2zm3-3a1 1 0 10-2 0v5a1 1 0 11-2 0V9a3 3 0 116 0v5a1 1 0 102 0V9a1 1 0 00-1-1z" clip-rule="evenodd"></path></svg>
+        )}
+        {fileIcon === 'file' && (
+          <svg fill="currentColor" viewBox="0 0 20 20" style="width: 1.1rem; height: 1.1rem; color: var(--text-muted);"><path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm0 4a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+        )}
+      </span>
+      <span class="node-name">{node.name}</span>
+      <span class="node-size">{node.size}</span>
+    </a>
+  )}
+</li>
+
+<style>
+  .tree-node {
+    margin: 0.25rem 0;
+  }
+
+  .node-row {
+    display: flex;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+    border-radius: 0.35rem;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .node-row:hover {
+    background-color: var(--hover);
+  }
+
+  .node-icon {
+    margin-right: 0.5rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .node-name {
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .node-size {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-left: 1rem;
+  }
+
+  .node-children {
+    list-style-type: none;
+    padding-left: 1.25rem;
+    border-left: 1px dashed var(--border);
+    margin-left: 0.9rem;
+    margin-top: 0.15rem;
+    display: none;
+  }
+
+  .node-children.expanded {
+    display: block;
+  }
+</style>
