@@ -27,7 +27,7 @@ const fileIcon = isDir ? 'folder' : getFileIcon(node.name);
       </ul>
     </div>
   ) : (
-    <a href={`/docs/${node.path.split('/').map(encodeURIComponent).join('/')}`} target="_blank" class="node-row file-node">
+    <a href={`/coempt/docs/${node.path.split('/').map(encodeURIComponent).join('/')}`} target="_blank" class="node-row file-node">
       <span style="width: 0.95rem; display: inline-block;"></span>
       <span class={`node-icon icon-${fileIcon}`}>
         {fileIcon === 'pdf' && (

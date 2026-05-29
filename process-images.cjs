@@ -51,9 +51,9 @@ function processMarkdown() {
     const afterRef = content.substring(refIndex + refString.length);
 
     // Make sure we don't duplicate the iframe
-    if (!content.includes('src="/docs-tree"')) {
+    if (!content.includes('src="/coempt/docs-tree"')) {
       content = beforeRef + 
-        `\n\n<iframe src="/docs-tree" style="width: 100%; height: 500px; border: 1px solid var(--border-color); border-radius: 0.5rem; margin-top: 1.5rem; background-color: var(--bg-bg);"></iframe>` + 
+        `\n\n<iframe src="/coempt/docs-tree" style="width: 100%; height: 500px; border: 1px solid var(--border-color); border-radius: 0.5rem; margin-top: 1.5rem; background-color: var(--bg-bg);"></iframe>` + 
         afterRef;
     }
   }
