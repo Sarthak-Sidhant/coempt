@@ -12,11 +12,11 @@ function processMarkdown() {
 
   let content = fs.readFileSync(sourceFile, 'utf8');
 
-  // 1. Process Obsidian image tags: ![[Pasted image 20260529120029.png]] -> ![Pasted image 20260529120029](attachments/Pasted%20image%2020260529120029.png)
+  // 1. Process Obsidian image tags: ![[Pasted image 20260529120029.png]] -> ![Pasted image 20260529120029](/coempt/attachments/Pasted%20image%2020260529120029.png)
   content = content.replace(/!\[\[(Pasted image (.*?))\.png\]\]/g, (match, p1, p2) => {
     const filename = p1 + '.png';
     const encodedFilename = encodeURIComponent(filename);
-    return `![${p1}](attachments/${encodedFilename})`;
+    return `![${p1}](/coempt/attachments/${encodedFilename})`;
   });
 
   // 2. Wrap '# end' section in details/summary dropdown

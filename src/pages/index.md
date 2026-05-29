@@ -31,7 +31,7 @@ A committee appointed by the Telangana government found out that Globarena never
 
 After this, Globarena changed their name to Coempt Edu Teck.
 
-![Pasted image 20260529120029](attachments/Pasted%20image%2020260529120029.png)
+![Pasted image 20260529120029](/coempt/attachments/Pasted%20image%2020260529120029.png)
 
 Now I think, CBSE should have done their due diligence and spotted this, and should've disqualified this company. But, as per my investigation, based on the tender documents I've read, I don't think this was just a mistake. Let me explain.
 
@@ -50,7 +50,7 @@ I have the RfP for it, but I could not find the results on GEM portal. I scraped
 ## [**The Second Tender was Issued on 2nd May 2025.**](https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndLatestActiveTenders&service=direct&sp=SENNfjUFAEU0dqaqPXx%2FykA%3D%3D)
 The Tender ID was: 2025_MHRD_858645_1
 
-![Pasted image 20260529124006](attachments/Pasted%20image%2020260529124006.png)
+![Pasted image 20260529124006](/coempt/attachments/Pasted%20image%2020260529124006.png)
 
 This Tender was cancelled. 4 bidders applied, It included both TCS and Coempt Eduteck. 
 
@@ -59,7 +59,7 @@ All four failed technical evaluation, and the tender was cancelled. From now on,
 ## [**The Third Tender was Issued on 28 August 2025.**](https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndLatestActiveTenders&service=direct&sp=S1uHzIUtRni8iFolldKG4pw%3D%3D)
 The Tender ID was: 2025_MHRD_875046_1
 
-![Pasted image 20260529124637](attachments/Pasted%20image%2020260529124637.png)
+![Pasted image 20260529124637](/coempt/attachments/Pasted%20image%2020260529124637.png)
 **Coempt Eduteck won this bid.**
 
 TCS, Coempt Eduteck, and Rankguru applied.
@@ -78,9 +78,9 @@ This is me delving deeper into  the Pre Qualifications criteria from the Old RfP
 
 In the Old RfP, the board explicitly stated that a service provider would be instantly disqualified if a confidential inquiry or past record revealed an history of "abandoning work," "not properly completing contractual obligations," or "financial failures/weaknesses in any institution."
 
-![Pasted image 20260529125010](attachments/Pasted%20image%2020260529125010.png)
-![Pasted image 20260529125016](attachments/Pasted%20image%2020260529125016.png)
-![Pasted image 20260529125024](attachments/Pasted%20image%2020260529125024.png)
+![Pasted image 20260529125010](/coempt/attachments/Pasted%20image%2020260529125010.png)
+![Pasted image 20260529125016](/coempt/attachments/Pasted%20image%2020260529125016.png)
+![Pasted image 20260529125024](/coempt/attachments/Pasted%20image%2020260529125024.png)
 
 In the New RfP, **these clauses were completely wiped out.**
 
@@ -91,11 +91,11 @@ If they had kept this clause, Coempt's catastrophic operational history under th
 ## 2. The Blacklisted Clause Loophole
 This is the Old RFP, Very clearly, in the General Terms and Conditions, It was mentioned that the Bidder is liable to disqualification if it has a record of poor performance, OR BLACKLISTED EARLIER BY THE BOARD, OR HAVE BEEN DEBARRED FROM ANY ASSIGNMENT BY ANY GOVERNMENT ORGANIZATION
 
-![Pasted image 20260529130310](attachments/Pasted%20image%2020260529130310.png)
+![Pasted image 20260529130310](/coempt/attachments/Pasted%20image%2020260529130310.png)
 
 In the new RFP however,  this requirement was subtly shifted to "currently blacklisted" in the Pre-Qualification Criteria
 
-![Pasted image 20260529131811](attachments/Pasted%20image%2020260529131811.png)
+![Pasted image 20260529131811](/coempt/attachments/Pasted%20image%2020260529131811.png)
 
 the difference went from "Blacklisted earlier" to "Currently Blacklisted" which is an interesting change, 
 
@@ -109,20 +109,20 @@ Because Globarena rebranded to Coempt Edu Teck six months after the Telangana cr
 
 The RfP mandated that bidders must have an average annual turnover of at least ₹50 Crore over the last three financial years (FY 2022-23 to 2024-25) specifically from digital examination/evaluation services. 
 
-![Pasted image 20260529132915](attachments/Pasted%20image%2020260529132915.png)
+![Pasted image 20260529132915](/coempt/attachments/Pasted%20image%2020260529132915.png)
 
 3 bidders bid for the new tender. Coempt Eduteck, Rankguru Technology Solutions and Tata Consultancy Services. I decided to dig in the financials of Coempt Eduteck and Rankguru Technology Solutions.
 
 Let’s look at the financial profiles of the final competing companies:
 *   **TCS:** A massive multinational entity clearing this threshold by thousands of crores.
-*   **Rankguru Technology Solutions:** Clear three-year average of ₹117.56 Crore.![Pasted image 20260529133027](attachments/Pasted%20image%2020260529133027.png)
-*   **Coempt Edu Teck:** Independent financial statements show sales of ₹32.1 Cr (Mar-2023), ₹52.7 Cr (Mar-2024), and ₹67.8 Cr (Mar-2025). Their precise three-year average calculates to **exactly ₹50.86 Crore**.![Pasted image 20260529133418](attachments/Pasted%20image%2020260529133418.png)
+*   **Rankguru Technology Solutions:** Clear three-year average of ₹117.56 Crore.![Pasted image 20260529133027](/coempt/attachments/Pasted%20image%2020260529133027.png)
+*   **Coempt Edu Teck:** Independent financial statements show sales of ₹32.1 Cr (Mar-2023), ₹52.7 Cr (Mar-2024), and ₹67.8 Cr (Mar-2025). Their precise three-year average calculates to **exactly ₹50.86 Crore**.![Pasted image 20260529133418](/coempt/attachments/Pasted%20image%2020260529133418.png)
 
 The Razor thin Margin of less than 2% is suspicious, especially when in the old RfP's Pre-Bid Clarifications, Shree Info Solution asked CBSE to keep the minimum eligible average annual turnover for last 3 years at Rs. 30 Cr. to promote fair competition, arguing that ₹30 Crore was already higher than the estimated project cost. 
 
 CBSE rejected them. 
 
-![Pasted image 20260529133357](attachments/Pasted%20image%2020260529133357.png)
+![Pasted image 20260529133357](/coempt/attachments/Pasted%20image%2020260529133357.png)
 
 They did not want small players, but apparently, Coempt, who qualified it by a very thin margin, qualifies for it.
 
@@ -133,15 +133,15 @@ Software engineering quality is measured globally by CMMI (Capability Maturity M
 
 in this "Free" Press Journal article praising VSN Raju and Coempt Eduteck for Revolutionizing the Examinations of India, The CMMI Level of Coempt Eduteck is reported as Level 3.
 
-![Pasted image 20260529135001](attachments/Pasted%20image%2020260529135001.png)
+![Pasted image 20260529135001](/coempt/attachments/Pasted%20image%2020260529135001.png)
 
 You won't believe the CMMI requirements in the old RfP. (Pre Qualification Criteria)
 
-![Pasted image 20260529135123](attachments/Pasted%20image%2020260529135123.png)
+![Pasted image 20260529135123](/coempt/attachments/Pasted%20image%2020260529135123.png)
 
 and in the new RfP, the CMMI requirements were relaxed to Level 3. in the Pre Qualification Criteria
 
-![Pasted image 20260529135234](attachments/Pasted%20image%2020260529135234.png)
+![Pasted image 20260529135234](/coempt/attachments/Pasted%20image%2020260529135234.png)
 
 By dropping the bar from Level 5 to Level 3, CBSE opened the floodgates for a less mature software platform to manage millions of sensitive student records.
 ## 5. time frame of corrupt practices coolinf ogg period being HALVED
@@ -149,10 +149,10 @@ In the old RFP, the "business ethics" clause dictated that engaging with former 
 
 Proof attached below:
 Old RfP: Two Years
-![Pasted image 20260529135943](attachments/Pasted%20image%2020260529135943.png)
+![Pasted image 20260529135943](/coempt/attachments/Pasted%20image%2020260529135943.png)
 
 New RfP: One Year
-![Pasted image 20260529135921](attachments/Pasted%20image%2020260529135921.png)
+![Pasted image 20260529135921](/coempt/attachments/Pasted%20image%2020260529135921.png)
 
 Why was this done? Wouldn't Shrinking the cooling-off period have had made it easier for the vendor to leverage recent insider connections or employ recently retired CBSE officials to influence the bidding process without violating the contract?
 
@@ -160,11 +160,11 @@ Why was this done? Wouldn't Shrinking the cooling-off period have had made it ea
 
 In the older RfP, the Pre Qualification Criteria had a clause where similar projects were required, where atleast 5 lakh students in each project was required.
 
-![Pasted image 20260529140814](attachments/Pasted%20image%2020260529140814.png)
+![Pasted image 20260529140814](/coempt/attachments/Pasted%20image%2020260529140814.png)
 
 this project criteria was changed to Project Values, in the New RFP, it removed student count entirely and also moved to cumulative volume of Answer Books. This benefits Vendors who have smaller, fragmented University Contracts.
 
-![Pasted image 20260529141035](attachments/Pasted%20image%2020260529141035.png)
+![Pasted image 20260529141035](/coempt/attachments/Pasted%20image%2020260529141035.png)
 
 Coempt Eduteck happens to be a Vendor, with Smaller Fragmented University Contracts. This directly benefitted Coempt over industry giants like TCS.
 
@@ -172,21 +172,21 @@ Coempt Eduteck happens to be a Vendor, with Smaller Fragmented University Contra
 
 In the older RfP, the bidder was reqired to have their own Data Center and Disaster Recovery Center
 
-![Pasted image 20260529141617](attachments/Pasted%20image%2020260529141617.png)
+![Pasted image 20260529141617](/coempt/attachments/Pasted%20image%2020260529141617.png)
 
 however, in the new RfP, the data center hosting should be MeitY empanelled, the requirement for owning them was removed.
 
-![Pasted image 20260529141843](attachments/Pasted%20image%2020260529141843.png)
+![Pasted image 20260529141843](/coempt/attachments/Pasted%20image%2020260529141843.png)
 
 This helped Coempt Eduteck, since all their services are hosted on AWS, which happens to be MeitY Empaneled. It didn't help TCS since TCS has their own data centers.
 
 The Screenshot below shows the ASN and IP of where onmark (Coempt's Platform) is hosted.
 
-![Pasted image 20260529141824](attachments/Pasted%20image%2020260529141824.png)
+![Pasted image 20260529141824](/coempt/attachments/Pasted%20image%2020260529141824.png)
 
 in the Old RFP, the service provider needed to insure local server deployment. However, this was deleted in the New RFP. Onmark is hosted on Azure, so this helped Coempt.
 
-![Pasted image 20260529143918](attachments/Pasted%20image%2020260529143918.png)
+![Pasted image 20260529143918](/coempt/attachments/Pasted%20image%2020260529143918.png)
 
 In the old RfP, the scoring Matrix heavily favoreed Massive IT Corporations by awarding 20 marks to bidders who actually owned their own Primary and Secondary Tier 3 Data Centers. 
 
@@ -194,15 +194,15 @@ Bidders who merely used a third Party MeitY empaneled data center were penalizde
 ## 8. Change in Software Ownership
 In the older RfP, the Service provider was required to own or have rights to access the complete source code of the software being used
 
-![Pasted image 20260529142755](attachments/Pasted%20image%2020260529142755.png)
+![Pasted image 20260529142755](/coempt/attachments/Pasted%20image%2020260529142755.png)
 
 in the new RfP, this clause was deleted. instead this clause was added.
 
-![Pasted image 20260529143723](attachments/Pasted%20image%2020260529143723.png)
+![Pasted image 20260529143723](/coempt/attachments/Pasted%20image%2020260529143723.png)
 
 This allowed companies like Coempt, whose onmark platform uses IIS. Internet Information Service, is a proprietary software owned by Microsoft.
 
-![Pasted image 20260529143304](attachments/Pasted%20image%2020260529143304.png)
+![Pasted image 20260529143304](/coempt/attachments/Pasted%20image%2020260529143304.png)
 
 ---
 
@@ -210,11 +210,11 @@ This allowed companies like Coempt, whose onmark platform uses IIS. Internet Inf
 
 in the new RfP, CBSE reserved the right to blacklist the firm if any of the mistake from "Other Mistakes is repeated"
 
-![Pasted image 20260529145418](attachments/Pasted%20image%2020260529145418.png)
+![Pasted image 20260529145418](/coempt/attachments/Pasted%20image%2020260529145418.png)
 
 A Corrigendum was issued, right before the bid submission, which took away the right from CBSE to blacklist the firm.
 
-![Pasted image 20260529145526](attachments/Pasted%20image%2020260529145526.png)
+![Pasted image 20260529145526](/coempt/attachments/Pasted%20image%2020260529145526.png)
 
 This is a clearly deliberate removal of the word "Blacklisting". By erasing blacklisting from the Penalty clause, the board ensured that even if Coempt's software failed catastrophically, the company would not be legally banned from bidding of future lucrative government tenders.
 
@@ -222,7 +222,7 @@ This is a clearly deliberate removal of the word "Blacklisting". By erasing blac
 
 # Security Audits and a Word on CERTin
 
-![Pasted image 20260529150457](attachments/Pasted%20image%2020260529150457.png)
+![Pasted image 20260529150457](/coempt/attachments/Pasted%20image%2020260529150457.png)
 
 The Vendor Needed to show a VAPT (Vulnerability Assesment and Penetration Testing) for the proposed hardware in **PRODUCTION ENVIRONMENT** 
 
@@ -230,7 +230,7 @@ The Security Audit reports should be submitted by the bidder one week prior to t
 
 there was a UAT phase, which was in the final pre launch window, the bidder was supposed to roll out a beta stage where the system would be RESTRICTED to users.
 
-![Pasted image 20260529151238](attachments/Pasted%20image%2020260529151238.png)
+![Pasted image 20260529151238](/coempt/attachments/Pasted%20image%2020260529151238.png)
 
 However, clearly, since [Nisarga could access it](https://ni5arga.com/blog/posts/hacking-cbse/), it wasn't restricted.
 [and based on this bundle found on wayback machine](https://web.archive.org/web/20260303072014jm_/https://cbse.onmark.co.in/cbseevalweb/main.a2bab24a9332a08b.js), on March 3rd, 4 days before Go-Live, there are clearly vulnerabilities in this, [check nisarga's post for this]( https://x.com/ni5arga/status/2059344651828834569?s=20).
@@ -246,7 +246,7 @@ in the old rfp, in section 2 of the Technical Evaluation Model, The Evaluation w
 
 and Value of Projects.
 
-![Pasted image 20260529152933](attachments/Pasted%20image%2020260529152933.png)
+![Pasted image 20260529152933](/coempt/attachments/Pasted%20image%2020260529152933.png)
 
 and in the new RfP, the Technical Evaluation Model was totally changed, 
 
@@ -254,20 +254,20 @@ instead of pages, and number and Value of Projects (which was shifted to Pre Qua
 
 Instead of valuing project on the assignment price, they just get 1 and 2 Marks for each completed project, That is, more the projects the vendor has, no matter how small, they get 1-2 marks. this again benefits fragmented vendors.
 
-![Pasted image 20260529153143](attachments/Pasted%20image%2020260529153143.png)
+![Pasted image 20260529153143](/coempt/attachments/Pasted%20image%2020260529153143.png)
 
 This must have benefited Coempt, just because of the sheer number of Projects they have done.  
 ## 2. Low workpower was rewarded
 in the old rfp, you required a robust team of >100 experienced personnel in software development to get top marks.
-![Pasted image 20260529153229](attachments/Pasted%20image%2020260529153229.png)
+![Pasted image 20260529153229](/coempt/attachments/Pasted%20image%2020260529153229.png)
 
 in the new rfp, the bar was lowered significantly, granting maximum points for just having ≥100 total full-time staff, requiring only 15 to have software/tech skillsets
-![Pasted image 20260529153218](attachments/Pasted%20image%2020260529153218.png)
+![Pasted image 20260529153218](/coempt/attachments/Pasted%20image%2020260529153218.png)
 This change made sure that both Coempt and TCS could score highest marks, even without having manpower experienced in software development.
 # Other Important and Interesting Points
 ## 1. Penalty system prioritizes rushed results
 The board prioritised volume based penalty instead of accuracy based penalty, that is, in the earlier RfP, in the Penalty Section:
-![Pasted image 20260529154033](attachments/Pasted%20image%2020260529154033.png)
+![Pasted image 20260529154033](/coempt/attachments/Pasted%20image%2020260529154033.png)
  
 These were the assigned penalties:
 * **Mismatch/Wrong Scanning:** ₹4,000 per answer book.
@@ -277,7 +277,7 @@ These were the assigned penalties:
 whereas in the new RfP, 
 there was no mention of Mismatch Scanning, or Merged Scanning.
 Instead, it was replaced with Deadlines and Penalties.
-![Pasted image 20260529154241](attachments/Pasted%20image%2020260529154241.png)
+![Pasted image 20260529154241](/coempt/attachments/Pasted%20image%2020260529154241.png)
 50 thousand rupees fine were levied per working day of delay, while scanning answer books. This would obviously led to rushed scanning of answer books. 
 
 This proves that, volume was focused over accuracy and quality.
@@ -287,19 +287,19 @@ The Answer sheets that the students wrote, was scanned in rush.
 Instead of Penalizing the Vendor for mistakes, CBSE asked the Vendor to fix the mistake on time, they will only be penalized if the mistake can't be fixed on time. This brought additonal rush.
 
 ## 2. Diluting to Vague Interpretations
-![Pasted image 20260529153930](attachments/Pasted%20image%2020260529153930.png)
+![Pasted image 20260529153930](/coempt/attachments/Pasted%20image%2020260529153930.png)
 
 the old rfp had a clause where there was a mathematical threshold, of 0.5%, that is the error rate should not have been more than that. the new rfp has no such mathematical thresholds. 
 
 ## 3. decrease in scanner quality and Dilution of Scanner Definition
-![Pasted image 20260529154518](attachments/Pasted%20image%2020260529154518.png)
+![Pasted image 20260529154518](/coempt/attachments/Pasted%20image%2020260529154518.png)
 in the old RfP, "Scanning should be done without cutting the spine of the Answer Booklet by employing the Automatic book/robotics Scanners. All the pages of the booklet should"
 
 in the new RfP, it just mentions "sufficient scanners"
-![Pasted image 20260529154556](attachments/Pasted%20image%2020260529154556.png)
+![Pasted image 20260529154556](/coempt/attachments/Pasted%20image%2020260529154556.png)
 
 conversely, this is the RfP published by Ranchi's CBSE RO, check how it clearly mentions high volume output duplex scanner with atleast 60 ppm and 300 DPI
-![Pasted image 20260529154633](attachments/Pasted%20image%2020260529154633.png)
+![Pasted image 20260529154633](/coempt/attachments/Pasted%20image%2020260529154633.png)
 
 ---
 
@@ -336,11 +336,11 @@ this section would be regularly updated with questions.
 
 ### A handy guide to score a tender
 patterns and commonly discussed tricks by bidders in rigged procurement ecosystems
-![Pasted image 20260529122404](attachments/Pasted%20image%2020260529122404.png)
+![Pasted image 20260529122404](/coempt/attachments/Pasted%20image%2020260529122404.png)
 
 ### A huge thanks to team darshi for working on this with me
 enquire more about team darshi by dming me
-![Pasted image 20260529170817](attachments/Pasted%20image%2020260529170817.png)
+![Pasted image 20260529170817](/coempt/attachments/Pasted%20image%2020260529170817.png)
 
 </div>
 </details>
