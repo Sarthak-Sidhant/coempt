@@ -4,11 +4,13 @@ hello, i am sarthak sidhant. i am a class 12th student of the year 2025-26, and 
 
 for the past few days, i have been investigating the On Screen Marking Evaluation Tenders issued by the CBSE. I feel that my findings are significant enough, and I would like to share them in the blog below.
 
-This is a story of how a massive public institution deliberately played with students' futures by rewriting its own rulebook.
+**This is a story of how a massive public institution deliberately played with students' futures by rewriting its own rulebook.**
 
 btw this article gets very technical very fast but fear not I try my best to explain each term and I have also added a glossary section at the end of the article for your reference. The language these bureaucracies use is unnecessarily complicated, a way to keep people away from their business, but fret not for I have scoured the documents in and out.
 
 ---
+In the class of 2025–26, over 17 lakh students registered under the Central Board of Secondary Education (CBSE) found their academic futures tied to a new digital grading system. On-Screen-Marking and Evaluation.
+
 
 # My Claim
 
@@ -31,6 +33,9 @@ After this, Globarena changed their name to Coempt Edu Teck.
 Now I think, CBSE should have done their due diligence and spotted this, and should've disqualified this company. But, as per my investigation, based on the tender documents I've read, I don't think this was just a mistake. Let me explain.
 
 ---
+Since CBSE is a public institution funded by public resources, it cannot simply select any private vendor of its choosing. It must issue a public Request for Proposal (RFP) to invite competitive bids. 
+
+This public bidding process ensures transparency in government. Since it is the taxpayer's money that runs the government, it also prevents bribery.
 
 # The Tender Timeline
 
@@ -113,7 +118,7 @@ Let’s look at the financial profiles of the final competing companies:
 *   **Rankguru Technology Solutions:** Clear three-year average of ₹117.56 Crore.![[Pasted image 20260529133027.png]]
 *   **Coempt Edu Teck:** Independent financial statements show sales of ₹32.1 Cr (Mar-2023), ₹52.7 Cr (Mar-2024), and ₹67.8 Cr (Mar-2025). Their precise three-year average calculates to **exactly ₹50.86 Crore**.![[Pasted image 20260529133418.png]]
 
-The Razor thin Margin of less than 2% is suspicious, especially when in the old RfP's Pre-Bid Clarifications, Shree Info Solution asked CBSE to keep the minimum eligible average annual turnover for last 3 years at Rs. 30 Cr. to promote fair competition, arguing that ₹30 Crore was already higher than the estimated project cost. 
+The Razor thin Margin of less than 1.7% is suspicious, especially when in the old RfP's Pre-Bid Clarifications, Shree Info Solution asked CBSE to keep the minimum eligible average annual turnover for last 3 years at Rs. 30 Cr. to promote fair competition, arguing that ₹30 Crore was already higher than the estimated project cost. 
 
 CBSE rejected them. 
 
@@ -121,7 +126,7 @@ CBSE rejected them.
 
 They did not want small players, but apparently, Coempt, who qualified it by a very thin margin, qualifies for it.
 
-They kept the minimum at ₹50 Crore locking out smaller, debt-free domestic competitors while keeping the ceiling perfectly aligned with Coempt’s financials.
+It indicates that CBSE’s eligibility parameters were not designed to seek out the most secure and mature software. Instead, the floor was held high enough to block smaller companies, while the ceiling was lowered precisely to fit the financial and technical limitations of Coempt.
 
 ## 4. Changing CMMI level from 5 to 3
 Software engineering quality is measured globally by CMMI (Capability Maturity Model Integration) levels. 
@@ -139,17 +144,19 @@ and in the new RfP, the CMMI requirements were relaxed to Level 3. in the Pre Qu
 ![[Pasted image 20260529135234.png]]
 
 By dropping the bar from Level 5 to Level 3, CBSE opened the floodgates for a less mature software platform to manage millions of sensitive student records.
-## 5. time frame of corrupt practices coolinf ogg period being HALVED
+## 5. time frame of corrupt practices cooling off period being HALVED
 In the old RFP, the "business ethics" clause dictated that engaging with former board officials would be deemed a corrupt practice up to **two year** after the official retired or resigned. The new RFP halved this window to just **one year**
 
 Proof attached below:
-Old RfP: Two Years
+Old RfP: Expiry of Two Years
 ![[Pasted image 20260529135943.png]]
 
-New RfP: One Year
+New RfP: Expiry of One Year
 ![[Pasted image 20260529135921.png]]
 
-Why was this done? Wouldn't Shrinking the cooling-off period have had made it easier for the vendor to leverage recent insider connections or employ recently retired CBSE officials to influence the bidding process without violating the contract?
+Why was this done? Everyone needs to know that.
+
+Wouldn't Shrinking the cooling-off period have had made it easier for the vendor to leverage recent insider connections or employ recently retired CBSE officials to influence the bidding process without violating the contract?
 
 ## 6. Project Criteria Changes
 
@@ -186,6 +193,8 @@ in the Old RFP, the service provider needed to insure local server deployment. H
 In the old RfP, the scoring Matrix heavily favoreed Massive IT Corporations by awarding 20 marks to bidders who actually owned their own Primary and Secondary Tier 3 Data Centers. 
 
 Bidders who merely used a third Party MeitY empaneled data center were penalizde receiving only 10 marks, in the new RfP, owning Servers does not matter anymore.
+
+CBSE rewrote rules so that the data is not sovreign. so that the data is in an unsafe environment.
 ## 8. Change in Software Ownership
 In the older RfP, the Service provider was required to own or have rights to access the complete source code of the software being used
 
@@ -198,6 +207,10 @@ in the new RfP, this clause was deleted. instead this clause was added.
 This allowed companies like Coempt, whose onmark platform uses IIS. Internet Information Service, is a proprietary software owned by Microsoft.
 
 ![[Pasted image 20260529143304.png]]
+
+The CBSE allowed proprietary platforms. Coempt's onmark was based on a proprietary platform.
+
+CBSE rewrote the rules for Coempt's Accessibility.
 
 ---
 
@@ -288,13 +301,17 @@ the old rfp had a clause where there was a mathematical threshold, of 0.5%, that
 
 ## 3. decrease in scanner quality and Dilution of Scanner Definition
 ![[Pasted image 20260529154518.png]]
-in the old RfP, "Scanning should be done without cutting the spine of the Answer Booklet by employing the Automatic book/robotics Scanners. All the pages of the booklet should"
+in the old RfP, "Scanning should be done without cutting the spine of the Answer Booklet by employing the Automatic book/robotics Scanners. All the pages of the booklet should" clearly mentioning Book and Robotics Scanner.
 
 in the new RfP, it just mentions "sufficient scanners"
 ![[Pasted image 20260529154556.png]]
 
 conversely, this is the RfP published by Ranchi's CBSE RO, check how it clearly mentions high volume output duplex scanner with atleast 60 ppm and 300 DPI
 ![[Pasted image 20260529154633.png]]
+
+The Quality of Scanning the Answer books, were compromised. since the Term Scanners were Vague-d Down, the Vendor can use whatever quality of scanner that is available to them. It could as well be a phone tied to a stand.
+
+Other definitions were vagued down too. 
 
 ---
 
